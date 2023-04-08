@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ocaiohen/ocaiohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Caio, eu sou um estudante do ensino médio com curso técnico integrado no Instituto Federal do Rio Grande do Norte. O curso técnico que estou fazendo é o de Informática para Internet.
 
-Here are some ideas to get you started:
+Atualmente estou estudando desenvolvimento Front-End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo:
+<br>
+
+<a href = "https://www.instagram.com/ocaiohen/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "instagram-logo"></a>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocaiohen)](https://github.com/anuraghazra/github-readme-stats)
+<br>
