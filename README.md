@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Caio, eu sou um estudante do ensino médio com curso técnico integrado no Instituto Federal do Rio Grande do Norte. O curso técnico que estou fazendo é o de Informática para Internet.
+Eu faço programa.
 
 
 ### Entre em contato comigo:
