@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Eu faço programa.
+Meu nome é Caio, sou um estudante de Informática para Internet do IFRN/CNAT.
 
+Gosto de tecnologia pois ela é uma ótima ferramenta para solucionar problemas que as vozes da minha cabeça arrumam. 
+
+Fique livre para dar uma olhada melhor nos meus projetos e
 
 ### Entre em contato comigo:
 <br>
